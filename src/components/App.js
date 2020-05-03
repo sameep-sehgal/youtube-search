@@ -30,8 +30,6 @@ class App extends React.Component{
     }
     
     render(){
-        console.log(this.state.videos)
-        console.log(this.state.streamVideoId);
         return(
             <div>
                 <SearchBox onSearchChange={this.onSearchChange}/>
