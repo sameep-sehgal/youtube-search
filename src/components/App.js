@@ -2,7 +2,7 @@ import React from 'react';
 import VideoList from './VideoList';
 import SearchBox from './SearchBox';
 import Footer from './Footer';
-import youtube from './apis/youtube';
+import youtube from '../apis/youtube';
 
 
 class App extends React.Component{
