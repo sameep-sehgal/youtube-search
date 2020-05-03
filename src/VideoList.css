@@ -1,0 +1,14 @@
+.box{
+    display: grid;
+    justify-items: center;
+    margin: 10px 50px;
+    height: 83vh;
+    min-height: 300px;
+    overflow-y: scroll;
+    overflow-x: auto;
+}
+
+h3{
+    text-align: center;
+}
+
